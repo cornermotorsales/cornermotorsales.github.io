@@ -2,6 +2,6 @@
 
 ```sh
 nvm use
-npm
+npm install
 npx http-server -p 8080
 ```
