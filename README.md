@@ -1,0 +1,7 @@
+# DEV NOTES
+
+```sh
+nvm use
+npm install
+npx http-server -p 8080
+```
