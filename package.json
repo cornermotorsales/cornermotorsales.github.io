@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cornermotorsales/cornermotorsales.github.io#readme",
   "devDependencies": {
+    "ecstatic": ">=4.1.3",
     "http-server": "^0.12.3"
   }
 }
