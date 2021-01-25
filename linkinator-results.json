@@ -1,0 +1,89 @@
+{
+  "links": [
+    {
+      "url": "http://fwmurphy.com/products/sensors/mth6",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/sensors_temperature.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/controls/a91",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/gages_electric_can.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/controllers/ems-gc10",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/gages_electric_can.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/lm2000",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/controls_electro_mechanical.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/gages/mla20-mla35-mlaa20",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/gages_electric.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/gages/a20t_a25t",
+      "status": 403,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/gages_mech_pressure.html"
+    },
+    {
+      "url": "http://fwmurphy.com/products/sensors/hd9063",
+      "status": 403,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/sensors_temperature.html"
+    },
+    {
+      "url": "http://fwmurphy.com/products/sensors/os77d",
+      "status": 403,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/sensors_temperature.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/controls/asm170",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/level_switches.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/controllers/canstart",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/level_switches.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/ignitions/output-harnesses",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/ignitions.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/panels/m110",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/panel_mechanical_engines.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/panels/hc9040",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/ignitions.html"
+    },
+    {
+      "url": "http://www.fwmurphy.com/products/ignitions/dsi",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://cornermotorsales.com/ignitions.html"
+    }
+  ],
+  "passed": false
+}
