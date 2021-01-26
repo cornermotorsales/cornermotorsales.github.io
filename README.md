@@ -19,6 +19,9 @@ npx http-server -p 8080
 ## Check locally-served site for broken links:
 - fast, errors-only, limited details (no line numbers)
 ```sh
+# use node to execute locally-installed http-server package:
+npx http-server -p 8080
+
 # use node to execute locally-installed linkinator package against local site:
 npx linkinator http://127.0.0.1:8080 --recurse --verbosity error
 ```
@@ -59,4 +62,16 @@ linkchecker https://cornermotorsales.com --file-output=csv --check-extern
 sudo docker run --rm -it -u $(id -u):$(id -g) --log-driver=none -a stdout -a stderr  linkchecker/linkchecker https://cornermotorsales.com --check-extern --no-status &> results.txt
 ```
 
+## Validate HTML locally:
 
+```sh
+# use node to execute locally-installed http-server package:
+npx http-server -p 8080
+
+# crawl and validate local site:
+npx site-validator http://localhost:8080 --local --verbose
+
+# alternatively, validate a single page:
+npx site-validator http://localhost:8080/ignitions --local --page --verbose
+
+```
